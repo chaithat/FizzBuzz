@@ -1,0 +1,5 @@
+C:\Users\Cadet\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.dll
+C:\Users\Cadet\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzzLibrary\bin\Debug\FizzBuzzLibrary.pdb
+C:\Users\Cadet\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cadet\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.dll
+C:\Users\Cadet\Documents\GitHub\FizzBuzz\FizzBuzz\FizzBuzzLibrary\obj\Debug\FizzBuzzLibrary.pdb
